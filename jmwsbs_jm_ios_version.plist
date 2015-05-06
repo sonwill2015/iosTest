@@ -25,7 +25,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>cn.com.jiangmenipad1</string>
+                    <string>cn.com.jiangmenipad</string>
                     <key>bundle-version</key>
                     <string>1.0</string>
                     <key>kind</key>
