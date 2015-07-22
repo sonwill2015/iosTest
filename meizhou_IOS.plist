@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://218.15.154.137:8080/webapp/mzss/web/common/meizhouIOS.ipa</string>
+                        <string>http://ss.meizhou.gov.cn/webapp/mzss/web/common/meizhouIOS.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://218.15.154.137:8080/webapp/mzss/web/images/iosLogo.png</string>
+                        <string>http://ss.meizhou.gov.cn/webapp/mzss/web/images/iosLogo.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
